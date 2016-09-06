@@ -35,24 +35,57 @@ First, clone git represitory
 
 With Git SSH
 ```
-git@github.com:FlorientR/laravel-gentelella.git
+git clone git@github.com:FlorientR/laravel-gentelella.git
 ```
 
 Or with HTTPS
 ```
-https://github.com/FlorientR/laravel-gentelella.git
+git clone https://github.com/FlorientR/laravel-gentelella.git
 ```
 
-Next, go to your project folder and run this follow commands
+Go to the project folder 
+```
+cd laravel-gentelella
+```
 
+Update composer 
 ```
 composer update
+```
+
+Copy ```.env.example``` file to ```.env```
+
+For Unix
+```
+cp .env.example .env
+```
+For Windows
+```
+copy .env.example .env
+```
+
+Next, run this follow commands
+
+```
 php artisan key:generate
 npm install --global bower gulp
 npm install
 bower install
 gulp
 ```
+
+###UPDATE 2.0
+
+Add auth support !
+
+WARNING : For auth support, configure your .env file with database and smtp connection !
+
+For install auth support, run this follow commands
+
+```
+php artisan migrate
+```
+
 
 And you are ready for a new Laravel 5.2 application with Gentelella template !!
 
