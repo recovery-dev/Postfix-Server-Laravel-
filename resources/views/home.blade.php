@@ -1,17 +1,28 @@
-@extends('layouts.app')
+@extends('layouts.blank')
 
-@section('content')
-<div class="container">
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-            <div class="panel panel-default">
-                <div class="panel-heading">Dashboard</div>
+@push('stylesheets')
+<!-- iCheck -->
+<link href="../vendors/iCheck/skins/flat/green.css" rel="stylesheet">
+<!-- bootstrap-progressbar -->
+<link href="../vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+<!-- jVectorMap -->
+<link href="css/maps/jquery-jvectormap-2.0.3.css" rel="stylesheet"/>
+@endpush
 
-                <div class="panel-body">
-                    You are logged in!
-                </div>
-            </div>
-        </div>
+@section('main_container')
+    
+    <!-- page content -->
+    <div class="right_col" role="main">
+    
     </div>
-</div>
+    <!-- /page content -->
+    
+    <!-- footer content -->
+    <footer>
+        <div class="pull-right">
+            Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>
+        </div>
+        <div class="clearfix"></div>
+    </footer>
+    <!-- /footer content -->
 @endsection
