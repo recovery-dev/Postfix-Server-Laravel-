@@ -78,7 +78,7 @@ gulp
 
 Add auth support !
 
-WARNING : For auth support, configure your .env file with database and smtp connection !
+**WARNING** : For auth support, configure your ```.env``` file with ```database``` and ```smtp``` connection !
 
 For install auth support, run this follow commands
 
