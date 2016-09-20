@@ -74,5 +74,18 @@ bower install
 gulp
 ```
 
+###UPDATE 2.0
+
+Add auth support !
+
+**WARNING** : For auth support, configure your ```.env``` file with ```database``` and ```smtp``` connection !
+
+For install auth support, run this follow commands
+
+```
+php artisan migrate
+```
+
+
 And you are ready for a new Laravel 5.2 application with Gentelella template !!
 
