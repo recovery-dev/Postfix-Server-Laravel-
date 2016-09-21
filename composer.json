@@ -15,7 +15,7 @@
       "css"
     ],
     "license": "MIT",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "type": "project",
     "require": {
         "php": ">=5.5.9",
