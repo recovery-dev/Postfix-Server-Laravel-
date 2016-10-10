@@ -155,7 +155,8 @@ return [
         App\Providers\AuthServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-
+	
+		Thomaswelton\LaravelGravatar\LaravelGravatarServiceProvider::class
     ],
 
     /*
@@ -202,6 +203,7 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
 
+		'Gravatar' => Thomaswelton\LaravelGravatar\Facades\Gravatar::class
     ],
 
 ];
