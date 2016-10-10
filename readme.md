@@ -2,6 +2,16 @@
 
 Laravel-gentelella is a Laravel 5.2 application with all Gentelella template components.
 
+## Change log
+### 2.0
+- Add Auth support (see **[Update 2.0](#update-20)**)
+
+### 2.1
+- Add errors pages (500, 404 and 403)
+
+### 2.2
+- Add real name and **[Gravatar](https://github.com/thomaswelton/laravel-gravatar)** on UI
+
 ## Gentelella
 
 Gentellela Admin is a free to use Bootstrap admin template.
