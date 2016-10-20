@@ -1,9 +1,10 @@
 {
   "name": "laravel-gentelella",
-  "description": "The Laravel 5.2 framework with Gentelella template",
+  "description": "The Laravel 5.3 framework with Gentelella template",
   "keywords": [
     "framework",
     "laravel",
+    "laravel 5.3",
     "gentelella",
     "laravel-gentelella",
     "template",

@@ -1,6 +1,6 @@
 #laravel-gentelella
 
-Laravel-gentelella is a Laravel 5.2 application with all Gentelella template components.
+Laravel-gentelella is a Laravel 5.3 application with all Gentelella template components.
 
 ## Change log
 ### 2.0
@@ -11,6 +11,9 @@ Laravel-gentelella is a Laravel 5.2 application with all Gentelella template com
 
 ### 2.2
 - Add real name and **[Gravatar](https://github.com/thomaswelton/laravel-gravatar)** on UI
+
+### 3.0
+- Laravel-Gentelella run now on Laravel 5.3 !
 
 ## Gentelella
 
@@ -28,7 +31,7 @@ We would love to see how you use this awesome admin template. You can notify us 
 **[Template Demo](https://colorlib.com/polygon/gentelella/index.html)**
 
 
-## Laravel 5.2
+## Laravel 5.3
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
 
@@ -36,12 +39,12 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ### Official Documentation
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs/5.2).
+Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs/5.3).
 
 
 # Installation
 
-First, clone git represitory
+First, clone git rep0sitory
 
 With Git SSH
 ```
@@ -96,6 +99,9 @@ For install auth support, run this follow commands
 php artisan migrate
 ```
 
+###UPDATE 3.0
 
-And you are ready for a new Laravel 5.2 application with Gentelella template !!
+####Laravel-Gentelella is now on Laravel 5.3 !!
+
+And you are ready for a new Laravel 5.3 application with Gentelella template !!
 
