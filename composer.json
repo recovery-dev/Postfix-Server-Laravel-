@@ -15,11 +15,11 @@
       "css"
     ],
     "license": "MIT",
-    "version": "2.2.0",
+    "version": "3.0.0",
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.2.*",
+        "laravel/framework": "5.3.*",
         "thomaswelton/laravel-gravatar": "~1.0"
     },
     "require-dev": {
