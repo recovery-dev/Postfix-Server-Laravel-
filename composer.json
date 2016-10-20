@@ -1,9 +1,10 @@
 {
     "name": "florientr/laravel-gentelella",
-    "description": "The Laravel 5.2 framework with Gentelella template",
+    "description": "The Laravel 5.3 framework with Gentelella template",
     "keywords": [
       "framework",
       "laravel",
+      "laravel 5.3",
       "gentelella",
       "laravel-gentelella",
       "template",
@@ -15,19 +16,19 @@
       "css"
     ],
     "license": "MIT",
-    "version": "2.2.0",
+    "version": "3.0.0",
     "type": "project",
     "require": {
-        "php": ">=5.5.9",
-        "laravel/framework": "5.2.*",
+        "php": ">=5.6.4",
+        "laravel/framework": "5.3.*",
         "thomaswelton/laravel-gravatar": "~1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~4.0",
-        "symfony/css-selector": "2.8.*|3.0.*",
-        "symfony/dom-crawler": "2.8.*|3.0.*"
+        "symfony/css-selector": "3.1.*",
+        "symfony/dom-crawler": "3.1.*"
     },
     "autoload": {
         "classmap": [
