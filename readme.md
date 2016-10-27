@@ -44,7 +44,8 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 # Installation
 
-First, clone git rep0sitory
+## With GIT
+Clone git repository
 
 With Git SSH
 ```
@@ -56,6 +57,12 @@ Or with HTTPS
 git clone https://github.com/FlorientR/laravel-gentelella.git
 ```
 
+## With Composer
+```
+composer create-project florientr/laravel-gentelella MyProject
+```
+
+## For GIT and Composer
 Go to the project folder 
 ```
 cd laravel-gentelella
