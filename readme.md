@@ -88,6 +88,8 @@ copy .env.example .env
 
 Next, run this follow commands
 
+!! YOU NEED TO INSTALL NODE.JS FOR USE NPM !! 
+
 ```
 php artisan key:generate
 npm install --global bower gulp
