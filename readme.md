@@ -30,6 +30,7 @@ We would love to see how you use this awesome admin template. You can notify us 
 
 **[Template Demo](https://colorlib.com/polygon/gentelella/index.html)**
 
+/!\ The home page on laravel-gentelella is empty and not like the demo /!\
 
 ## Laravel 5.3
 
