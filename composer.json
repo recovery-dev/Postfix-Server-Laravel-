@@ -4,7 +4,7 @@
     "keywords": [
       "framework",
       "laravel",
-      "laravel 5.3",
+      "laravel 5.4",
       "gentelella",
       "laravel-gentelella",
       "template",
@@ -16,17 +16,17 @@
       "css"
     ],
     "license": "MIT",
-    "version": "3.0.2",
+    "version": "4.0.0",
     "type": "project",
     "require": {
         "php": ">=5.6.4",
-        "laravel/framework": "5.3.*",
+        "laravel/framework": "5.4.*",
         "thomaswelton/laravel-gravatar": "~1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
-        "phpunit/phpunit": "~4.0",
+        "phpunit/phpunit": "~5.7",
         "symfony/css-selector": "3.1.*",
         "symfony/dom-crawler": "3.1.*"
     },
