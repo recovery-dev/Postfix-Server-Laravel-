@@ -1,19 +1,24 @@
 #laravel-gentelella
 
-Laravel-gentelella is a Laravel 5.3 application with all Gentelella template components.
+Laravel-gentelella is a Laravel 5.4 application with all Gentelella template components.
 
 ## Change log
-### 2.0
-- Add Auth support (see **[Update 2.0](#update-20)**)
 
-### 2.1
-- Add errors pages (500, 404 and 403)
+### 4.0
+- Laravel-Gentelella run now on Laravel 5.4 !
+
+### 3.0
+- Laravel-Gentelella run now on Laravel 5.3 !
 
 ### 2.2
 - Add real name and **[Gravatar](https://github.com/thomaswelton/laravel-gravatar)** on UI
 
-### 3.0
-- Laravel-Gentelella run now on Laravel 5.3 !
+### 2.1
+- Add errors pages (500, 404 and 403)
+
+### 2.0
+- Add Auth support (see **[Update 2.0](#update-20)**)
+
 
 ## Gentelella
 
@@ -32,7 +37,7 @@ We would love to see how you use this awesome admin template. You can notify us 
 
 /!\ The home page on laravel-gentelella is empty and not like the demo /!\
 
-## Laravel 5.3
+## Laravel 5.4
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
 
@@ -40,7 +45,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ### Official Documentation
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs/5.3).
+Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs/5.4).
 
 
 # Installation
@@ -91,10 +96,24 @@ Next, run this follow commands
 
 !! YOU NEED TO INSTALL NODE.JS FOR USE NPM !! 
 
+For install all NPM package
+
+```
+npm install
+```
+
+Or for install just minimal package
+
+```
+npm install --global bower gulp
+npm install gulp
+npm install laravel-elixir
+```
+
+And then, run this commands
+
 ```
 php artisan key:generate
-npm install --global bower gulp
-npm install
 bower install
 gulp
 ```
@@ -105,15 +124,11 @@ Add auth support !
 
 **WARNING** : For auth support, configure your ```.env``` file with ```database``` and ```smtp``` connection !
 
-For install auth support, run this follow commands
+For install auth support, run this follow command
 
 ```
 php artisan migrate
 ```
 
-###UPDATE 3.0
-
-####Laravel-Gentelella is now on Laravel 5.3 !!
-
-And you are ready for a new Laravel 5.3 application with Gentelella template !!
+You are ready for a new Laravel 5.4 application with Gentelella template !!
 
