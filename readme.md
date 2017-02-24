@@ -4,6 +4,9 @@ Laravel-gentelella is a Laravel 5.4 application with all Gentelella template com
 
 ## Change log
 
+### 4.2
+- Add form builder : **[LaravelCollective](https://github.com/LaravelCollective/html)**
+
 ### 4.1
 - Add system of tag : **[Laravel-tagging](https://github.com/rtconner/laravel-tagging/tree/laravel-5)**
 
