@@ -29,7 +29,7 @@
 			
 				{!! BootForm::email('email', 'Email', old('email'), ['placeholder' => 'Email', 'afterInput' => '<span>test</span>'] ) !!}
 			
-				{!! BootForm::password('password', old('password'), ['placeholder' => 'Password']) !!}
+				{!! BootForm::password('password', 'Password', ['placeholder' => 'Password']) !!}
 				
 				<div>
 					{!! BootForm::submit('Log in', ['class' => 'btn btn-default submit']) !!}
