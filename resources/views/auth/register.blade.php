@@ -51,7 +51,7 @@
 					<p>©2016 All Rights Reserved. Gentelella Alela! is a Bootstrap 3 template. Privacy and Terms</p>
 				</div>
 			</div>
-			{!! Form::close() !!}
+			{!! BootForm::close() !!}
         </section>
     </div>
 </div>
