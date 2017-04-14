@@ -4,6 +4,9 @@ Laravel-gentelella is a Laravel 5.4 application with all Gentelella template com
 
 ## Change log
 
+### 4.3
+- Change form builder for Bootstrap form builder : **[BootstrapForm](https://github.com/dwightwatson/bootstrap-form)**
+
 ### 4.2
 - Add form builder : **[LaravelCollective](https://github.com/LaravelCollective/html)**
 
