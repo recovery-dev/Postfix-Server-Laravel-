@@ -1,4 +1,4 @@
-#laravel-gentelella
+## laravel-gentelella
 
 Laravel-gentelella is a Laravel 5.4 application with all Gentelella template components.
 
