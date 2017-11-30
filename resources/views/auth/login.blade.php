@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>Gentellela Alela! | </title>
+    <title>IMAP Service</title>
     
     <!-- Bootstrap -->
     <link href="{{ asset("css/bootstrap.min.css") }}" rel="stylesheet">
@@ -47,8 +47,8 @@
 					<br />
                         
 					<div>
-						<h1><i class="fa fa-paw"></i> Gentelella Alela!</h1>
-						<p>©2016 All Rights Reserved. Gentelella Alela! is a Bootstrap 3 template. Privacy and Terms</p>
+						<h1><i class="fa fa-paw"></i> Best Service!</h1>
+						<p>©2017 All Rights Reserved. Privacy and Terms</p>
 					</div>
 				</div>
 				{!! BootForm::close() !!}

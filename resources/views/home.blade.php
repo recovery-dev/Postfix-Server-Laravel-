@@ -7,9 +7,8 @@
 
 @section('main_container')
 
-    <!-- page content -->
     <div class="right_col" role="main">
-
+        @includeIf('imap/config', ['config' => $config])
     </div>
-    <!-- /page content -->
+
 @endsection

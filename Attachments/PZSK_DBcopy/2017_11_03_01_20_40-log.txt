@@ -1,0 +1,2442 @@
+po 29.08.2016=20
+"Zahajuji kopirovani db" =20
+14:21
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+14:21
+"Ukoncene kopirovani db" =20
+po 29.08.2016=20
+"Zahajuji kopirovani db" =20
+14:21
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+14:21
+"Ukoncene kopirovani db" =20
+po 29.08.2016=20
+"Zahajuji kopirovani db" =20
+14:22
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+14:22
+"Ukoncene kopirovani db" =20
+po 29.08.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 30.08.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 31.08.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 01.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+p=A0 02.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+so 03.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 04.09.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:06
+"Ukoncene kopirovani Infor" =20
+po 05.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+=A3t 06.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 07.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 08.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+p=A0 09.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 10.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 11.09.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:05
+"Ukoncene kopirovani Infor" =20
+po 12.09.2016=20
+"Zahajuji kopirovani db" =20
+16:15
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+16:15
+"Ukoncene kopirovani db" =20
+po 12.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+23:00
+"Ukoncene kopirovani db" =20
+=A3t 13.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 14.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+=9Ft 15.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 16.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 17.09.2016=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:10
+"Ukoncene mesicni kopirovani db" =20
+so 17.09.2016=20
+"Zahajuji pulrocni kopirovani db" =20
+22:30
+22:30
+"Ukoncene pulrocni kopirovani db" =20
+so 17.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 18.09.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:07
+"Ukoncene kopirovani Infor" =20
+po 19.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+=A3t 20.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+st 21.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:04
+"Ukoncene kopirovani db" =20
+=9Ft 22.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 23.09.2016=20
+"Zahajuji kopirovani db" =20
+09:43
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+09:43
+"Ukoncene kopirovani db" =20
+p=A0 23.09.2016=20
+"Zahajuji kopirovani db" =20
+09:44
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+09:44
+"Ukoncene kopirovani db" =20
+p=A0 23.09.2016=20
+"Zahajuji kopirovani db" =20
+09:44
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+p=A0 23.09.2016=20
+"Zahajuji kopirovani db" =20
+09:45
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+09:45
+"Ukoncene kopirovani db" =20
+p=A0 23.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+23:01
+"Ukoncene kopirovani db" =20
+so 24.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 25.09.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:05
+"Ukoncene kopirovani Infor" =20
+po 26.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 27.09.2016=20
+"Zahajuji kopirovani db" =20
+16:16
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+16:16
+"Ukoncene kopirovani db" =20
+=A3t 27.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+23:01
+"Ukoncene kopirovani db" =20
+st 28.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 29.09.2016=20
+"Zahajuji kopirovani db" =20
+15:00
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+15:00
+"Ukoncene kopirovani db" =20
+=9Ft 29.09.2016=20
+"Zahajuji kopirovani db" =20
+15:01
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+15:01
+"Ukoncene kopirovani db" =20
+=9Ft 29.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+p=A0 30.09.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 01.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 02.10.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 03.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:17
+"Ukoncene kopirovani db" =20
+=A3t 04.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+st 05.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+=9Ft 06.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 07.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 08.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 09.10.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:05
+"Ukoncene kopirovani Infor" =20
+po 10.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 11.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 12.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 13.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 14.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 15.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 16.10.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:05
+"Ukoncene kopirovani Infor" =20
+po 17.10.2016=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:11
+"Ukoncene mesicni kopirovani db" =20
+po 17.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 18.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 19.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 20.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 21.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 22.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 23.10.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:14
+"Ukoncene kopirovani Infor" =20
+po 24.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 25.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 26.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+=9Ft 27.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 28.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 29.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 30.10.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:05
+"Ukoncene kopirovani Infor" =20
+po 31.10.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 01.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 02.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 03.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 04.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 05.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 06.11.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:05
+"Ukoncene kopirovani Infor" =20
+po 07.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 08.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 09.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 10.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 11.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 12.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 13.11.2016=20
+"Zahajuji tydenni kopirovani db" =20
+09:12
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+09:12
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+09:12
+09:17
+"Ukoncene kopirovani Infor" =20
+ne 13.11.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 14.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 15.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 16.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 17.11.2016=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:11
+"Ukoncene mesicni kopirovani db" =20
+=9Ft 17.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 18.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 19.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 20.11.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:06
+"Ukoncene kopirovani Infor" =20
+po 21.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 22.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 23.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 24.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 25.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 26.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 27.11.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:07
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:07
+23:11
+"Ukoncene kopirovani Infor" =20
+po 28.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 29.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 30.11.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 01.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 02.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 03.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 04.12.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:05
+"Ukoncene kopirovani Infor" =20
+po 05.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 06.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 07.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 08.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 09.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 10.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 11.12.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:04
+"Ukoncene kopirovani Infor" =20
+po 12.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 13.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 14.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 15.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 16.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 17.12.2016=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:11
+"Ukoncene mesicni kopirovani db" =20
+so 17.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 18.12.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:04
+"Ukoncene kopirovani Infor" =20
+po 19.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 20.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 21.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 22.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 23.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 24.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 25.12.2016=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:06
+"Ukoncene kopirovani Infor" =20
+po 26.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 27.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+st 28.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:04
+"Ukoncene kopirovani db" =20
+=9Ft 29.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:05
+"Ukoncene kopirovani db" =20
+p=A0 30.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+so 31.12.2016=20
+"Zahajuji kopirovani db" =20
+23:00
+23:05
+"Ukoncene kopirovani db" =20
+ne 01.01.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+po 02.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 03.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 04.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 05.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 06.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 07.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 08.01.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:06
+"Ukoncene kopirovani Infor" =20
+po 09.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 10.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 11.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 12.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 13.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 14.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+ne 15.01.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:04
+"Ukoncene kopirovani Infor" =20
+po 16.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 17.01.2017=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:11
+"Ukoncene mesicni kopirovani db" =20
+=A3t 17.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 18.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 19.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 20.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 21.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 22.01.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:00
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:00
+23:04
+"Ukoncene kopirovani Infor" =20
+po 23.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 24.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 25.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 26.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 27.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 28.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 29.01.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 30.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 31.01.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 01.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 02.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 03.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 04.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 05.02.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 06.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 07.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 08.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 09.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 10.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 11.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 12.02.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 13.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 14.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 15.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 16.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 17.02.2017=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:11
+"Ukoncene mesicni kopirovani db" =20
+p=A0 17.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 18.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 19.02.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:07
+"Ukoncene kopirovani Infor" =20
+po 20.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 21.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 22.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 23.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 24.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 25.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 26.02.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 27.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 28.02.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 01.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 02.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 03.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 04.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 05.03.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 06.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 07.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 08.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 09.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 10.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 11.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 12.03.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 13.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 14.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 15.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 16.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 17.03.2017=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:11
+"Ukoncene mesicni kopirovani db" =20
+p=A0 17.03.2017=20
+"Zahajuji pulrocni kopirovani db" =20
+22:30
+22:31
+"Ukoncene pulrocni kopirovani db" =20
+p=A0 17.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 18.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 19.03.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:06
+"Ukoncene kopirovani Infor" =20
+po 20.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 21.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 22.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 23.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 24.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 25.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 26.03.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:06
+"Ukoncene kopirovani Infor" =20
+po 27.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 28.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 29.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 30.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 31.03.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 01.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 02.04.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:06
+"Ukoncene kopirovani Infor" =20
+po 03.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 04.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 05.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 06.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 07.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 08.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 09.04.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:05
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:05
+23:11
+"Ukoncene kopirovani Infor" =20
+po 10.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 11.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 12.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 13.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 14.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 15.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 16.04.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:04
+"Ukoncene kopirovani Infor" =20
+po 17.04.2017=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:11
+"Ukoncene mesicni kopirovani db" =20
+po 17.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 18.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 19.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 20.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 21.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 22.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 23.04.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:04
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:04
+23:08
+"Ukoncene kopirovani Infor" =20
+po 24.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 25.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 26.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 27.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 28.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 29.04.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 30.04.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 01.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 02.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 03.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 04.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 05.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 06.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 07.05.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 08.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 09.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+st 10.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 11.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 12.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 13.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 14.05.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 15.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 16.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 17.05.2017=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+22:10
+"Ukoncene mesicni kopirovani db" =20
+st 17.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+=9Ft 18.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 19.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 20.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+ne 21.05.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 22.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 23.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+st 24.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 25.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 26.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+so 27.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 28.05.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+po 29.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 30.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 31.05.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 01.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 02.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 03.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 04.06.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:07
+"Ukoncene kopirovani Infor" =20
+po 05.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 06.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+st 07.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:04
+"Ukoncene kopirovani db" =20
+=9Ft 08.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+p=A0 09.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 10.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 11.06.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:06
+"Ukoncene kopirovani Infor" =20
+po 12.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 13.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 14.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 15.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 16.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 17.06.2017=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:11
+"Ukoncene mesicni kopirovani db" =20
+so 17.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:00
+"Ukoncene kopirovani db" =20
+ne 18.06.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+po 19.06.2017=20
+"Zahajuji tydenni kopirovani db" =20
+10:01
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+10:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+10:01
+10:05
+"Ukoncene kopirovani Infor" =20
+po 19.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 20.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 21.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=9Ft 22.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 23.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 24.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 25.06.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 26.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 27.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 28.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 29.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 30.06.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 01.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 02.07.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:06
+"Ukoncene kopirovani Infor" =20
+po 03.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+=A3t 04.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+st 05.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=9Ft 06.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+p=A0 07.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 08.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 09.07.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:07
+"Ukoncene kopirovani Infor" =20
+po 10.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 11.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+st 12.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:05
+"Ukoncene kopirovani db" =20
+=9Ft 13.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:06
+"Ukoncene kopirovani db" =20
+p=A0 14.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 15.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 16.07.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 17.07.2017=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:12
+"Ukoncene mesicni kopirovani db" =20
+po 17.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:05
+"Ukoncene kopirovani db" =20
+=A3t 18.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:07
+"Ukoncene kopirovani db" =20
+st 19.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+=9Ft 20.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 21.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 22.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 23.07.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:06
+"Ukoncene kopirovani Infor" =20
+po 24.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 25.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+st 26.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=9Ft 27.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+p=A0 28.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 29.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 30.07.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 31.07.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 01.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+st 02.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=9Ft 03.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+p=A0 04.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 05.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 06.08.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:06
+"Ukoncene kopirovani Infor" =20
+po 07.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 08.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 09.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 10.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 11.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 12.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 13.08.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:03
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:03
+23:08
+"Ukoncene kopirovani Infor" =20
+po 14.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+=A3t 15.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:04
+"Ukoncene kopirovani db" =20
+st 16.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 17.08.2017=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+Chyba: Nebyly nalezeny =A7=A0dn=82 soubory spl=E5uj=A1c=A1 zadan=82 krit=82=
+rium hled=A0n=A1.
+22:11
+"Ukoncene mesicni kopirovani db" =20
+=9Ft 17.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 18.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 19.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 20.08.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:07
+"Ukoncene kopirovani Infor" =20
+po 21.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 22.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 23.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=9Ft 24.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+p=A0 25.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 26.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 27.08.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 28.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 29.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+st 30.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 31.08.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 01.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 02.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 03.09.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 04.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 05.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 06.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 07.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 08.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 09.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+ne 10.09.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:05
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:05
+Byla naru=E7eno sd=A1len=A1.
+23:10
+"Ukoncene kopirovani Infor" =20
+po 11.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 12.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+st 13.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=9Ft 14.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+p=A0 15.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 16.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 17.09.2017=20
+"Zahajuji m=ECs=ED=E8n=ED kopirovani db" =20
+22:10
+22:11
+"Ukoncene mesicni kopirovani db" =20
+ne 17.09.2017=20
+"Zahajuji pulrocni kopirovani db" =20
+22:30
+22:30
+"Ukoncene pulrocni kopirovani db" =20
+ne 17.09.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:02
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:02
+23:06
+"Ukoncene kopirovani Infor" =20
+po 18.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=A3t 19.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+st 20.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=9Ft 21.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:03
+"Ukoncene kopirovani db" =20
+p=A0 22.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 23.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 24.09.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 25.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 26.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 27.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=9Ft 28.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+p=A0 29.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 30.09.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 01.10.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20
+po 02.10.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+=A3t 03.10.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+st 04.10.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+=9Ft 05.10.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:02
+"Ukoncene kopirovani db" =20
+p=A0 06.10.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+so 07.10.2017=20
+"Zahajuji kopirovani db" =20
+23:00
+23:01
+"Ukoncene kopirovani db" =20
+ne 08.10.2017=20
+"Zahajuji tydenni kopirovani db" =20
+23:00
+23:01
+"Ukoncene tydenni kopirovani db" =20
+"Zahajuji kopirovani Infor" =20
+23:01
+23:05
+"Ukoncene kopirovani Infor" =20

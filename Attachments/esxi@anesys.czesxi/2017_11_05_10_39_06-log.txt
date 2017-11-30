@@ -1,0 +1,80 @@
+2017-10-09 03:29:10 INF start version=3D0.9.7b cmd=3D['/usr/local/sbin/baza=
+arvcb-0.9.7b-linux-x86_64/bazaarvcb', 'backup', '-H', '10.11.11.77', '-u', =
+'root', '-p', '********', '--hashing', '--roll-out', '5', '--mail', 'always=
+', '--mail-host', '192.168.25.252', '--mail-sender', 'esxi@anesys.cz', '--m=
+ail-recipient', 'bck-ane@podpora.anesys.cz', '--disk-format', 'thin', 'AN_P=
+BX', '/mnt/backups/esxibackups-poweron/', '--poweron-after', '--consolidate=
+']=0A2017-10-09 03:29:10 INF start backup AN_PBX to /mnt/backups/esxibackup=
+s-poweron/=0A2017-10-09 03:29:11 INF vmx: /vmfs/volumes/Datastore 1 RAID5/A=
+N_PBX/ANESYS_PBX.vmx=0A2017-10-09 03:29:12 INF vm pre-backup status is POWE=
+RED ON=0A2017-10-09 03:29:12 INF backup using download agent=0A2017-10-09 0=
+3:29:12 INF best base is: /mnt/backups/esxibackups-poweron/AN_PBX-201710070=
+32819=0A2017-10-09 03:29:12 INF temporary destination: /mnt/backups/esxibac=
+kups-poweron/AN_PBX-20171009032910.new=0A2017-10-09 03:29:12 INF create sna=
+pshot: bazaar_AN_PBX_20171009032910=0A2017-10-09 03:29:17 INF write vmx: AN=
+ESYS_PBX.vmx=0A2017-10-09 03:29:17 INF Upload agent as 0e33a0c3c6ff4988b127=
+973b84c4b36a28ac605f.pyc=0A2017-10-09 03:29:18 INF data channel[0] is open =
+through 10.11.11.98:31031=0A2017-10-09 03:29:18 INF data channel[1] is open=
+ through 10.11.11.98:31031=0A2017-10-09 03:29:18 INF data channel[2] is ope=
+n through 10.11.11.98:31031=0A2017-10-09 03:29:18 INF data channel[3] is op=
+en through 10.11.11.98:31031=0A2017-10-09 03:29:18 INF data channel[4] is o=
+pen through 10.11.11.98:31031=0A2017-10-09 03:29:18 INF data channel[5] is =
+open through 10.11.11.98:31031=0A2017-10-09 03:29:18 INF data channel[6] is=
+ open through 10.11.11.98:31031=0A2017-10-09 03:29:18 INF data channel[7] i=
+s open through 10.11.11.98:31031=0A2017-10-09 03:29:18 INF write descriptor=
+: ANESYS_PBX.vmdk=0A2017-10-09 03:29:18 INF download extend: /vmfs/volumes/=
+Datastore 1 RAID5/AN_PBX/ANESYS_PBX-flat.vmdk=0A2017-10-09 03:29:19 INF dow=
+nload 8589934592 bytes from /vmfs/volumes/Datastore 1 RAID5/AN_PBX/ANESYS_P=
+BX-flat.vmdk=0A2017-10-09 03:29:24 INF download     168/8192Mo ( 2.1)% in  =
+   5s at 12.13Mo/s=0A2017-10-09 03:29:29 INF download     222/8192Mo ( 2.7)=
+% in    10s at 11.43Mo/s=0A2017-10-09 03:29:34 INF download     308/8192Mo =
+( 3.8)% in    15s at  8.51Mo/s=0A2017-10-09 03:29:39 INF download     415/8=
+192Mo ( 5.1)% in    20s at  6.42Mo/s=0A2017-10-09 03:29:44 INF download    =
+ 646/8192Mo ( 7.9)% in    25s at  5.19Mo/s=0A2017-10-09 03:29:49 INF downlo=
+ad     897/8192Mo (10.9)% in    30s at  4.36Mo/s=0A2017-10-09 03:29:54 INF =
+download    1121/8192Mo (13.7)% in    35s at  4.11Mo/s=0A2017-10-09 03:29:5=
+9 INF download    1349/8192Mo (16.5)% in    40s at  3.63Mo/s=0A2017-10-09 0=
+3:30:04 INF download    1502/8192Mo (18.3)% in    45s at  3.25Mo/s=0A2017-1=
+0-09 03:30:09 INF download    1556/8192Mo (19.0)% in    50s at  2.93Mo/s=0A=
+2017-10-09 03:30:14 INF download    1697/8192Mo (20.7)% in    55s at  2.68M=
+o/s=0A2017-10-09 03:30:19 INF download    1827/8192Mo (22.3)% in    60s at =
+ 2.47Mo/s=0A2017-10-09 03:30:24 INF download    1993/8192Mo (24.3)% in    6=
+5s at  2.30Mo/s=0A2017-10-09 03:30:29 INF download    2124/8192Mo (25.9)% i=
+n    70s at  2.16Mo/s=0A2017-10-09 03:30:34 INF download    2271/8192Mo (27=
+.7)% in    75s at  2.02Mo/s=0A2017-10-09 03:30:39 INF download    2418/8192=
+Mo (29.5)% in    80s at  1.91Mo/s=0A2017-10-09 03:30:44 INF download    254=
+4/8192Mo (31.1)% in    85s at  1.80Mo/s=0A2017-10-09 03:30:49 INF download =
+   2690/8192Mo (32.8)% in    90s at  1.71Mo/s=0A2017-10-09 03:30:54 INF dow=
+nload    2835/8192Mo (34.6)% in    95s at  1.63Mo/s=0A2017-10-09 03:31:00 I=
+NF download    3062/8192Mo (37.4)% in   100s at  1.56Mo/s=0A2017-10-09 03:3=
+1:05 INF download    3246/8192Mo (39.6)% in   105s at  1.49Mo/s=0A2017-10-0=
+9 03:31:10 INF download    3363/8192Mo (41.1)% in   110s at  1.43Mo/s=0A201=
+7-10-09 03:31:15 INF download    3535/8192Mo (43.2)% in   116s at  1.37Mo/s=
+=0A2017-10-09 03:31:20 INF download    3706/8192Mo (45.2)% in   121s at  1.=
+34Mo/s=0A2017-10-09 03:31:25 INF download    3836/8192Mo (46.8)% in   126s =
+at  1.29Mo/s=0A2017-10-09 03:31:30 INF download    4002/8192Mo (48.9)% in  =
+ 131s at  1.24Mo/s=0A2017-10-09 03:31:35 INF download    4163/8192Mo (50.8)=
+% in   136s at  1.21Mo/s=0A2017-10-09 03:31:40 INF download    4295/8192Mo =
+(52.4)% in   141s at  1.17Mo/s=0A2017-10-09 03:31:45 INF download    4482/8=
+192Mo (54.7)% in   146s at  1.14Mo/s=0A2017-10-09 03:31:50 INF download    =
+4662/8192Mo (56.9)% in   151s at  1.11Mo/s=0A2017-10-09 03:31:55 INF downlo=
+ad    4815/8192Mo (58.8)% in   156s at  1.08Mo/s=0A2017-10-09 03:32:00 INF =
+download    4994/8192Mo (61.0)% in   161s at  1.05Mo/s=0A2017-10-09 03:32:0=
+5 INF download    5150/8192Mo (62.9)% in   166s at  1.03Mo/s=0A2017-10-09 0=
+3:32:10 INF download    5332/8192Mo (65.1)% in   171s at  1.00Mo/s=0A2017-1=
+0-09 03:32:16 INF download    5514/8192Mo (67.3)% in   176s at  0.98Mo/s=0A=
+2017-10-09 03:32:21 INF download    5745/8192Mo (70.1)% in   181s at  0.96M=
+o/s=0A2017-10-09 03:32:26 INF download    6535/8192Mo (79.8)% in   186s at =
+ 0.95Mo/s=0A2017-10-09 03:32:31 INF download    6761/8192Mo (82.5)% in   19=
+1s at  0.94Mo/s=0A2017-10-09 03:32:36 INF download    6891/8192Mo (84.1)% i=
+n   196s at  0.92Mo/s=0A2017-10-09 03:32:41 INF download    7070/8192Mo (86=
+.3)% in   201s at  0.90Mo/s=0A2017-10-09 03:32:46 INF download    7245/8192=
+Mo (88.4)% in   207s at  0.90Mo/s=0A2017-10-09 03:32:51 INF download    742=
+1/8192Mo (90.6)% in   212s at  0.90Mo/s=0A2017-10-09 03:32:56 INF download =
+   8034/8192Mo (98.1)% in   217s at  0.89Mo/s=0A2017-10-09 03:32:57 INF dow=
+nloaded 194/8192Mo in 217s at  0.89Mo/s=0A2017-10-09 03:32:57 INF got 39433=
+/2097152 blocks  1.9%=0A2017-10-09 03:32:59 INF remove snapshot: bazaar_AN_=
+PBX_20171009032910=0A2017-10-09 03:33:32 INF backup finished=0A2017-10-09 0=
+3:33:32 INF renaming destination to /mnt/backups/esxibackups-poweron/AN_PBX=
+-20171009032910=0A2017-10-09 03:33:32 INF rollout "/mnt/backups/esxibackups=
+-poweron/AN_PBX-20171003032855"=0A2017-10-09 03:33:32 INF backup success=0A

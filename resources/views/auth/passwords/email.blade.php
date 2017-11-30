@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>Gentellela Alela! | </title>
+    <title>Best Service | </title>
     
     <!-- Bootstrap -->
     <link href="{{ asset("css/bootstrap.min.css") }}" rel="stylesheet">
@@ -27,7 +27,7 @@
         <div class="animate form login_form">
             <section class="login_content">
                 @if (session('status'))
-                    <div class="alert alert-success">
+                    <di     v class="alert alert-success">
                         {{ session('status') }}
                     </div>
                 @endif
@@ -49,8 +49,8 @@
 					<br />
 					
 					<div>
-						<h1><i class="fa fa-paw"></i> Gentelella Alela!</h1>
-						<p>©2016 All Rights Reserved. Gentelella Alela! is a Bootstrap 3 template. Privacy and Terms</p>
+						<h1><i class="fa fa-paw"></i> Best for you</h1>
+						<p>©2017 All Rights Reserved.  Privacy and Terms</p>
 					</div>
 				</div>
 					

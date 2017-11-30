@@ -13,7 +13,7 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-        // Commands\Inspire::class,
+        Commands\ImapCommand::class,
     ];
 
     /**
@@ -24,7 +24,23 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        // $schedule->command('inspire')
-        //          ->hourly();
+        // $schedule->call(function () {
+        //         })
+        //         ->everyFiveMinutes()
+        //         ->appendOutputTo($filePath);
+        $schedule->command('custom:email')
+                 ->everyMinute();
+                //  ->twiceDaily(1, 13)
+                //  ->hourly()
+                //  ->daily()
+                //  ->dailyAt("07:00")
+                //  ->weekly()
+                //  ->monthly();   
+                //  ->when(Closure);
+    }
+
+    public function commands()
+    {
+        // require base_path('routes')
     }
 }

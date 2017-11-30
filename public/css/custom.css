@@ -1,0 +1,75 @@
+.modal-footer {
+  border: 0px;
+}
+.delete-form {
+  display: initial;
+}
+.config-delete,
+.task-delete {
+  display: none;
+}
+.title-icon>* {
+  display: inline;
+}
+.schedule-repetition {
+  display: inline-block;
+  margin-left: 7%;
+}
+.mail_list_column {
+  overflow: scroll;
+  height: 100%;
+}
+#mailbox {
+  margin-bottom: 5px;
+}
+#mailbox-name {
+  margin-bottom: 10px;
+}
+.img-circle.profile_img {
+  margin: 10px;
+}
+.move-to-modal {
+  position: absolute;
+  color: white;
+  left: -186px;
+  top: 0px;
+  width: 50%;
+  height: 100%;
+  background: white;
+  display: none;
+}
+.move-to-modal > * {
+  display: block;
+  width: 100%;
+  padding: 5px 0 5px 10px;
+  cursor: pointer;
+}
+.mailbox:hover {
+  background: #2A3F54;
+}
+.move-to-effect {
+  display: block;
+  animation: effect 0.1s forwards;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+  background: black;
+  opacity: 0.9;
+}
+@keyframes effect {
+  0% {left: -186px;}
+  20% { left: -150px;}
+  40% { left: -112px;}
+  60% { left: -75px;}
+  80% { left: -30px;}
+  100% { left: 0px;}
+}
+.reverse-effect {
+  display: block;
+  animation: effect 0.7s;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+  background: black;
+  opacity: 0.9;
+  animation-direction: reverse;
+  animation-fill-mode: backwards;
+}
